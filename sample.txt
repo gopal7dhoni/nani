@@ -1,1 +1,9 @@
  guys this is my source code
+devops is a great opportunity to learn for freshers
+devops is not a tool
+devops is a culture
+devops is one methodology 
+to automate the regular work & 
+to reduce the build and deployment process
+that' it
+
